@@ -8,7 +8,7 @@ namespace Undarmaa
 {
     namespace Lab1
     {
-        class Task2
+        class Task1
         {
             private string _city;
             public string City
